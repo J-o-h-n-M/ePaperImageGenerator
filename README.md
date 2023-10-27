@@ -3,7 +3,7 @@ generates images for the 2.9 inch epaper displays
 
 
 
-Usage python .\createimgforedisplay.py  'first line' 'second line' 'third line' 'WIFI:T:WPA2;S:Guestnetwork;P:wifipassword;H:true;'
+Usage python .\createQRimagefordisplay.py  'first line' 'second line' 'third line' 'WIFI:T:WPA2;S:Guestnetwork;P:wifipassword;H:true;'
 
 This creates 
 
