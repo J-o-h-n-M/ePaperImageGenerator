@@ -14,7 +14,7 @@ args = parser.parse_args()
 # Create a new image with white background
 img = Image.new('RGB', (296, 128), color='white')
 
-# Add text to the image
+# Add 3 lines of text to image
 draw = ImageDraw.Draw(img)
 
 font = ImageFont.truetype('arial.ttf', size=20)
