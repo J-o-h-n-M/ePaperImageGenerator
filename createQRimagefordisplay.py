@@ -53,12 +53,6 @@ img.paste(qr_img, (qr_pos_x, qr_pos_y))
 # Save the image as a JPEG file
 img.save('QRcode.jpg')
 
-
-
-
-
-
-
 # Save the image as JPEG with maximum quality
 image_path = 'QRcode.jpg'
 
