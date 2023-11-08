@@ -5,7 +5,7 @@ generates QR code image for the 2.9 inch epaper displays and uploads it to displ
 
 Usage:
 
-<code>python .\createQRimagefordisplay.py  'first line' 'second line' 'third line' 'WIFI:T:WPA2;S:Guestnetwork;P:wifipassword;H:true;' 'MAC (without colons)' '192.168.178.89'</code>
+<code>python .\createQRimagefordisplay.py  'first line' 'second line' 'third line' 'WIFI:T:WPA2;S:Guestnetwork;P:wifipassword;H:true;' 'MAC (without colons)' 'IP of the epaper Access Point'</code>
 
 This creates 
 
